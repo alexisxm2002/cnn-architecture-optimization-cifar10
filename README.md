@@ -47,7 +47,7 @@ DARTS was used as a gradient-based architecture search method to optimize candid
 
 The best DARTS architecture achieved approximately **85.1% validation accuracy**, outperforming the standard NAS search.
 
-![DARTS Selected Architecture](figures/darts_architecture.png)
+![Top DARTS Architectures](figures/darts_architecture_results.png)
 
 ### Bayesian Optimization
 
